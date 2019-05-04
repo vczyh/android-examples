@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="book_store" />
+
+    <version value="2" />
+
+    <list>
+        <mapping class="com.vczyh.litepaltest.Book"></mapping>
+        <mapping class="com.vczyh.litepaltest.Category"></mapping>
+    </list>
+
+</litepal>
